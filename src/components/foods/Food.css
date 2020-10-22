@@ -1,0 +1,7 @@
+#foods .h-100:hover {
+    background-color: #fadbe1;
+    border-radius: 20px;
+}
+#foods .link {
+    text-decoration: none;
+}
