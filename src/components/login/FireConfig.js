@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAvc6V7fgZBm9qwldfaJHPocuJn0jEi7hQ",
-    authDomain: "hot-onion-kitchen.firebaseapp.com",
-    databaseURL: "https://hot-onion-kitchen.firebaseio.com",
-    projectId: "hot-onion-kitchen",
-    storageBucket: "hot-onion-kitchen.appspot.com",
-    messagingSenderId: "588568843878",
-    appId: "1:588568843878:web:b7ae840002040e39f37fa7"
-};
+    apiKey: "AIzaSyAjpB217v4p8XjgwGrifWvly6o1ryPOZ9M",
+    authDomain: "hot-onion-bd.firebaseapp.com",
+    databaseURL: "https://hot-onion-bd.firebaseio.com",
+    projectId: "hot-onion-bd",
+    storageBucket: "hot-onion-bd.appspot.com",
+    messagingSenderId: "626948338610",
+    appId: "1:626948338610:web:75076ef2fda36c0af8aaab"
+  };
 
 export default firebaseConfig;
